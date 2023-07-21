@@ -40,7 +40,7 @@ The project includes:
 ## Installation
 To play the game or explore the Unity project:
 1. Clone this project from GitHub or download it as a ZIP file.
-2. Open Unity Hub or Unity 2019.4.0f1+.
+2. Open Unity Hub or Unity 2020.3.33f1.
 3. Add the project folder to Unity using "Add" or "Open."
 4. Go to "MainScene" to experience the gameplay.
 5. Play the game using Unity's game simulator or build it for your platform.
